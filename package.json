@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This acitivity's goal was to create an Amazon-like store front using Node.js and MySQL. It is a command-line application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhi27/bamazon.git"
+  },
+  "author": "Vidhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vidhi27/bamazon/issues"
+  },
+  "homepage": "https://github.com/vidhi27/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "require": "^2.4.20"
+  }
+}
